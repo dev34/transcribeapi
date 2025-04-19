@@ -2,3 +2,4 @@ Flask
 whisper
 ffmpeg-python
 torch
+gunicorn
